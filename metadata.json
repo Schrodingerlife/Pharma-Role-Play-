@@ -1,0 +1,7 @@
+{
+  "name": "PharmaRoleplay",
+  "description": "AI-powered roleplay training for pharmaceutical sales representatives.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
